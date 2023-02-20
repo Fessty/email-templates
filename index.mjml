@@ -48,7 +48,7 @@
           <mj-image align="center" src="assets/horizontal.png" alt="main-image"></mj-image>
         </mj-column>
       </mj-section>
-      <mj-section padding="32px">
+      <mj-section padding="40px 40px 25px 40px">
         <mj-column width="75%">
           <mj-text align="left" font-size="15px">
             <span style="opacity: 0.7;"> Мокин </span>
@@ -60,40 +60,40 @@
             <span style="opacity: 0.7;"> Должность </span>
           </mj-text>
         </mj-column>
-        <mj-column width="25%">
-          <mj-image align="right" src="assets/logo.png" alt="small-logo"></mj-image>
+        <mj-column width="25%" vertical-align="top">
+          <mj-image align="right"  src="assets/logo.png" alt="small-logo"></mj-image>
         </mj-column>
       </mj-section>
-      <mj-section padding-bottom="16px">
-        <mj-column width="10%">
+      <mj-section padding-bottom="20px">
+        <mj-column width="11%">
           <mj-image align="right" src="assets/phone.png" alt="phone" width="30px"></mj-image>
         </mj-column>
-        <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+        <mj-column width="39%">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 12px">
             <a href="tel:+7 (496) 519-61-71"> +7 (496) 519-61-71 доб. 999 </a>
           </mj-text>
         </mj-column>
-        <mj-column width="10%" padding="8px 8px">
+        <mj-column width="11%" padding="5px 5px">
           <mj-image align="right" src="assets/globe.png" alt="globe" width="30px"></mj-image>
         </mj-column>
-        <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+        <mj-column width="39%">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 12px">
             <a href="https://ntpz.ru/" target="_blank"> www.ntpz.ru </a>
           </mj-text>
         </mj-column>
-        <mj-column width="10%">
+        <mj-column width="11%">
           <mj-image align="right" src="assets/phone.png" alt="phone" width="30px"></mj-image>
         </mj-column>
-        <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+        <mj-column width="39%">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 12px">
             <a href="tel:+7 (496) 519-61-71"> +7 (000) 000-00-00 </a>
           </mj-text>
         </mj-column>
-        <mj-column width="10%" padding="8px 8px">
+        <mj-column width="11%" padding="5px 5px">
           <mj-image align="right" src="assets/tg.png" alt="tg" width="30px"></mj-image>
         </mj-column>
-        <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+        <mj-column width="39%">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 12px">
             <a href="https://t.me/pipesntpz" target="_blank"> @pipesntpz </a>
           </mj-text>
         </mj-column>
